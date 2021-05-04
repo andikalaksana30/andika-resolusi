@@ -1,0 +1,3 @@
+- Membuat sistem login laravel auth
+- Membuat halaman dashboard
+- Membuat fitur tambah data
